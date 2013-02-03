@@ -1,5 +1,7 @@
 Bat_To_Exe_Converter.exe
 VBoxGUI(*
 VBoxList(
+VBox_Setup_Services.bat
+VBox_Setup_Headless.bat
 autodevxexec.bat
 autodevxexec.exe
