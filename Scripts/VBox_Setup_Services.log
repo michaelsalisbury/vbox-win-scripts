@@ -1,0 +1,13 @@
+_______________________________________________________________________________
+..................Sun 02/03/2013...................13:37:50.37.................
+
+Adding Service "VBoxHeadless USER[msalisbury] SYSTEM[RedHat Enterprise 6.3 Server [RHEL10] Firewall]"
+...............................................................................
+[SC] CreateService SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+

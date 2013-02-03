@@ -1,0 +1,12 @@
+Support*
+VBoxVmService*
+
+VirtualBox
+portablepowershell
+
+srvstart.exe
+svc.exe
+logger.dll
+srvstart.dll
+
+devxexec.exe

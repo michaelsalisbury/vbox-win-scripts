@@ -1,0 +1,73 @@
+_______________________________________________________________________________
+..................Mon 07/09/2012...................22:40:15.04.................
+
+Adding Service "Environment LOG USER[vbox@.]"
+...............................................................................
+[SC] CreateService SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+
+Adding Service "Environment LOG USER[msalisbury@.]"
+...............................................................................
+[SC] CreateService SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+
+Adding Service "Environment LOG USER[administrator@.]"
+...............................................................................
+[SC] CreateService SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+
+Adding Service "VBoxWebSrv PORT[18084] USER[administrator@.]"
+...............................................................................
+[SC] CreateService SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+
+Adding Service "VBoxWebSrv PORT[18085] USER[msalisbury@.]"
+...............................................................................
+[SC] CreateService SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+
+Adding Service "VBoxWebSrv PORT[18086] USER[vbox@.]"
+...............................................................................
+[SC] CreateService SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+
+Adding Service "VBoxHeadless USER[msalisbury] SYSTEM[RedHat Enterprise 6 Server [RHEL01]]"
+...............................................................................
+[SC] CreateService SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+[SC] ChangeServiceConfig SUCCESS
+
