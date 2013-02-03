@@ -23,11 +23,11 @@ goto :EOF
 	echo _______________________________________________________________________________
 	echo ..................%DATE%...................%TIME%.................
 	echo.
-	call :encodePass	msalisbury		Xitsanmyg76
-	call :encodePass	administrator		1qaz@WSX
-	::call :encodePass	vbox			1qaz@WSX
-	::call :encodePass	bob@ucf.edu		1q2w#E$R
-	::call :encodePass	pig.pie\aurelia 	aqwsDERF
+	call :encodePass	msalisbury		********
+	call :encodePass	administrator		********
+	::call :encodePass	vbox			********
+	::call :encodePass	bob@ucf.edu		********
+	::call :encodePass	pig.pie\aurelia 	********
 	call :setupAutoDevxExec
 
 	::call :addEnvironmentLog Environment     vbox          "Hello World"
